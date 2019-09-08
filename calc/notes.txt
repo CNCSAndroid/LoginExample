@@ -1,0 +1,2 @@
+Notes for Python and Django
+1. DTL: Django Template Language
